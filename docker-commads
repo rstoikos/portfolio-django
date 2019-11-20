@@ -1,0 +1,114 @@
+python3 -m venv venv
+source venv/bin/activate
+
+touch Dockerfile
+nano Dockerfile 
+docker build -t django-docker:0.0.1 .
+sudo apt install docker.io
+docker build -t django-docker:0.0.1 .
+sudo docker build -t django-docker:0.0.1
+docker run -p 8001:8001 docker-django:0.0.1
+sudo docker run -p 8001:8001
+sudo docker build -t django-docker:0.0.1
+sudo docker run -p 8001:8001
+nano Dockerfile 
+sudo docker build -t django-docker:0.0.1
+sudo docker run -p 8001:8001
+docker run -p 8001:8001 docker-django:0.0.1
+sudo docker build -t django-docker
+docker run -p 8001:8001 docker-django
+sudo docker run -p 8001:8001
+nano Dockerfile 
+sudo docker build -t django-docker
+nano Dockerfile 
+sudo docker build -t django-docker
+nano Dockerfile 
+sudo docker images
+sudo docker run -p 8001:8001
+sudo docker images
+sudo docker rmi <none>
+sudo docker rmi 9fe17508ccd4
+sudo docker rmi -f 9fe17508ccd4
+sudo docker images
+sudo docker rmi -f bd3f0385a81c
+sudo docker images
+sudo docker rmi -f 703e234b1cd5
+sudo docker images
+sudo docker rmi -f 7526014d1795
+sudo docker image
+sudo docker images
+sudo docker build -t django-docker:0.0.1
+sudo docker images
+sudo docker run -p 8001:8001
+sudo docker run --help
+sudo docker ps -a
+sudo docker ps -a |
+sudo docker images
+sudo docker run -p 8001:8001
+nano docker-compose.yml
+docker-compose up
+dsudo apt install docker-composeocker-compose up
+sudo apt install docker-compose
+docker-compose up
+sudo docker-compose up
+nano docker-compose.yml 
+sudo docker-compose up
+nano docker-compose.yml 
+sudo docker-compose up
+docker-compose up
+nano docker-compose.yml 
+docker-compose up
+sudo docker-compose up
+nano docker-compose.yml 
+sudo docker-compose up
+docker-compose exec web python manage.py
+sudo docker-compose exec web python
+sudo docker list
+sudo docker images
+sudo docker rmi f603b7a1e4e8
+sudo docker rmi -f f603b7a1e4e8
+sudo docker images
+nano docker-compose.yml 
+sudo docker run -p 8001:8001
+sudo docker-compose up
+sudo docker list
+sudo docker images
+sudo docker rmi 633d8bc90ef0
+sudo docker rmi -f 633d8bc90ef0
+sudo docker images
+nano docker-compose.yml 
+sudo docker-compose run web django-docker:0.0.1
+sudo docker-compose start project django-docker:0.0.1
+sudo docker-compose up
+sudo docker images
+sudo docker rmi -f b85fa22255de
+sudo docker-compose up
+sudo docker images
+sudo docker rmi -f 96831dc89e72
+nano docker-compose.yml 
+sudo docker rmi -f 96831dc89e72
+sudo docker-compose up
+nano docker-compose.yml 
+sudo docker-compose up
+nano docker-compose.yml 
+sudo docker-compose up
+sudo docker images
+sudo docker run -p 8001:8001
+sudo docker-compose run web django-admin
+sudo docker images
+sudo docker-compose run web django-admin
+docker ps
+sudo docker ps
+more Dockerfile 
+more docker-compose.yml 
+sudo docker-compose up
+nano docker-compose.yml 
+sudo docker-compose up
+sudo docker run -p 8001:8001
+sudo docker-compose up
+sudo docker-compose images
+sudo docker-compose down
+nano docker-compose.yml 
+sudo docker-compose ps
+
+history | grep -i docker
